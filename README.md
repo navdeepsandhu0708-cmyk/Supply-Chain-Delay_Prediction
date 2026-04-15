@@ -92,9 +92,7 @@ https://colab.research.google.com/drive/1oOTqRXpyf3oEJW015IzVmCg7wSKxNlVp#scroll
 
 ---
 
-##  Author Harmanjot Kaur 
- LinkedIn: www.linkedin.com/in/harmanjot-kaur2003
-
+##  Author Vishavjeet Singh
 
 Author:Vishavjeet Singh
 LinkedIn: www.linkedin.com/in/vishavjeet-singh0708
